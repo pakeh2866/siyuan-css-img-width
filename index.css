@@ -1,0 +1,6 @@
+
+/* the img of width*/
+[data-type="img"] {
+    display: inline-block !important;
+    width: 33%;
+  }
