@@ -1,4 +1,4 @@
-[English](https://github.com/pakeh2866)
+[English](https://github.com/pakeh2866/siyuan-css-img-width/blob/5114aca9b699bdf6eb3b4da1308b47234939ae68/README_zh_CN.md)
 
 # 修改图片默认宽度
 为了方便部分用户，写了一个修改图片默认宽度的插件。
