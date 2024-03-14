@@ -1,4 +1,5 @@
-[中文](https://github.com/pakeh2866/siyuan-css-img-width/blob/579f88bd61fc6c03b48e80cb3e5ab8d887a9617d/README.md)
+[中文](https://github.com/pakeh2866/siyuan-css-img-width/blob/main/README.md)
+
 
 # Adjust the default width of the image
 
