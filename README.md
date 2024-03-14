@@ -11,7 +11,7 @@ The width can be modified in plugins \ siyuan css img width \ index.css, with a 
 ### CSS
 
 ```css
-/* Show pinned document name CSS片段 https://github.com/TCOTC/siyuan-css-pin-doc-show*/
+/* Show pinned document name CSS片段 */
 [data-type="img"] {
   display: inline-block !important;
   width: 33%;
